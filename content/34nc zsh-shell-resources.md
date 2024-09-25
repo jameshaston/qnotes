@@ -1,0 +1,1 @@
+/Users/jameshaston/notes/34nc zsh-shell-resources.md

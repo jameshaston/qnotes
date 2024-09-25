@@ -1,0 +1,1 @@
+/Users/jameshaston/notes/t67j zsh-basic-input-and-output-redirection.md

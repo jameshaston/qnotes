@@ -1,0 +1,1 @@
+/Users/jameshaston/notes/zg6z zsh-movements-and-shortcuts.md
