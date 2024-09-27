@@ -15,8 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    //baseUrl: "quartz.jzhao.xyz",
-    baseUrl: "jameshaston.github.io/qnotes"
+    baseUrl: "quartz.jzhao.xyz",
+    //baseUrl: "jameshaston.github.io/qnotes"
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
