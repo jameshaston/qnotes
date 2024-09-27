@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/a572 rust-beginner-resources.md

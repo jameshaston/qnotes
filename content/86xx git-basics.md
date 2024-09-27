@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/86xx git-basics.md

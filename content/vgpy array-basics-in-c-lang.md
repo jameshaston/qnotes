@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/vgpy array-basics-in-c-lang.md

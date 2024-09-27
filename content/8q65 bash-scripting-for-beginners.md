@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/8q65 bash-scripting-for-beginners.md

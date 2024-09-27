@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/ryj3 copy-mode-in-wezterm.md

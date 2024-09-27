@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/jic8 nvim-external-shell-commands.md

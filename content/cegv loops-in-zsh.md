@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/cegv loops-in-zsh.md

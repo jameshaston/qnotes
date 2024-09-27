@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/9izu conditional-statements-in-zsh.md

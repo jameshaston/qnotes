@@ -1,1 +1,0 @@
-/Users/jameshaston/notes/sqna primitive-types-in-rust.md
