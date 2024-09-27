@@ -1,5 +1,6 @@
 ---
-title: Notes for Baeliens
+title: Epoch 0
 ---
 
-Welcome to my alien universe.
+This is iteration 0 
+
