@@ -123,7 +123,7 @@ up of separate blocks of memory, each with their own reference (memory address).
 | Values | 4 | 8 | 1 |
 | --------------- | --------------- | --------------- | --------------- |
 | Address | 1000 | 1004 | 1008 |
-| Pointer| 󰁝 | 󰁝 | 󰁝 |
+| Pointer| * | * | * |
 | Location| 1000 | 1000 + 4 | 1000 + 8 |
 
 # Zk Reference Notes
