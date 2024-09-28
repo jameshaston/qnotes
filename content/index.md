@@ -1,6 +1,5 @@
 ---
-title: Epoch 0
+title: The 0th Iteration
 ---
 
-This is iteration 0 
 
