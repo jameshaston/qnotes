@@ -110,4 +110,7 @@ num = 10
 # Zk Reference Notes
 
 - node: [c-lang-node](3xe5-c-lang-node.md)
+- [for loop basics in c](1yg2%20for-loop-basics-in-c.md)
+- [while loop basics in c lang](qm3k%20while-loop-basics-in-c-lang.md)
+- [array basics in c lang](vgpy%20array-basics-in-c-lang.md)
 
