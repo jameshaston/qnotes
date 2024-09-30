@@ -43,11 +43,73 @@ int main() {
 array at index 4 is: -17
 array at index 2 is: 4
 ```
+
 In memory, the array would look something like this:
 
 | 0 | 1 | 2 | 3 | 4 |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | 23 | 0 | 4 | 65 | -17 |
+
+You can also use a `for` statement to initialize the values of an array. See [for loop basics in c](1yg2%20for-loop-basics-in-c.md).
+
+
+Another way to initialize an array:
+
+```c
+#include <stdio.h>
+#define N 7
+
+int main(void) {
+    /* explicitly defining array values */
+    int a[3] = {8, 6, 2};
+    printf("~~~~~~~~~~~~~~~~~\n");
+    printf("a[1] is: %d\n\n", a[1]);
+
+    /* defining array values by default */
+    int b[3] = {0};
+    printf("~~~~~~~~~~~~~~~~~\n");
+    printf("b[2] is: %d\n", b[2]);
+    printf("b[4] is: %d\n\n", b[4]);
+
+    /* defining array values by default */
+    int c[N] = {2, 3, 1, 87, 4, 7, 6};
+    printf("~~~~~~~~~~~~~~~~~\n");
+    printf("c[4] is: %d\n\n", c[4]);
+
+    return 0;
+}
+```
+
+*Results:*
+```
+~~~~~~~~~~~~~~~~~
+a[1] is: 6
+
+~~~~~~~~~~~~~~~~~
+b[2] is: 0
+b[4] is: 8
+
+~~~~~~~~~~~~~~~~~
+c[4] is: 4
+
+```
+
+# Array Length Using `sizeof`
+
+To get the length of an array, you can use the `sizeof` function.
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int ar[5];
+    printf("The length of 'ar' array is: %d\n", sizeof(ar)/sizeof(ar[0]));
+
+    return 0;
+}
+```
+
+*Results:* `The length of 'ar' array is: 5`
 
 # Zk Reference Notes
 

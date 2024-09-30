@@ -129,35 +129,7 @@ up of separate blocks of memory, each with their own reference (memory address).
 # Zk Reference Notes
 
 - node: [c-lang-node](3xe5-c-lang-node.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [c-lang-functions-with-pointers](v1w5-c-lang-functions-with-pointers.md)
+- [c-lang-functions](0iuz-c-lang-functions.md)
 
 
