@@ -62,6 +62,37 @@ Age: 31
 Email: julia@dot.com
 ```
 
+# Using `struct` Values
+
+Suppose we defined `struct Point(int x, int y)`.
+
+> Access Members
+
+```
+aPoint.x
+aPoint.y
+```
+
+> Assign to Members
+
+```
+aPoint.x = 1;
+aPoint.y = 8;
+```
+
+> Take the Address Of
+
+```
+Point *bPointPointer = &aPoint;
+```
+
+> Copy over all members of a struct
+
+```
+Point cPoint = aPoint;
+*bPointPointer = someOtherPoint;
+```
+
 # Zk Reference Notes
 
 - node: [c-lang-node](3xe5-c-lang-node.md)

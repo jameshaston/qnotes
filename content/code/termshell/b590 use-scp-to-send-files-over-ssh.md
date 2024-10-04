@@ -1,5 +1,7 @@
 ---
 title: use scp to send files over ssh
+draft: true
+visibility: private
 tags: [scp, ssh, file, transfer] 
 id: b590
 date: 2024-08-25

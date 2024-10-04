@@ -1,5 +1,7 @@
 ---
 title: create a dotfiles folder
+draft: true
+visibility: private
 tags: [dotfiles, config, stow] 
 id: 50kx
 date: 2024-07-27
