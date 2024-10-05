@@ -12,6 +12,7 @@ The root node of my c lang notes. [c-lang-node](3xe5-c-lang-node.md)
 
 # Useful Resources
 
+- [Online Visual Debugger C](https://pythontutor.com/c.html#mode=edit) 
 - [c manual markdown](https://github.com/VernonGrant/gnu-c-language-manual/blob/main/markdown/index.md) 
 - [devdocs.io for C](https://devdocs.io/c/) 
 - [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#SEC_Contents)
